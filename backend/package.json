@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "end-to-end backend",
+  "main": "index.js",
+  "repository": "https://github.com/SomSingh23/Virtual-Health-Connect",
+  "author": "som singh lodhi",
+  "license": "YES",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}
